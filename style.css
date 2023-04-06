@@ -1,0 +1,12 @@
+body{
+    background-image: "https://media.istockphoto.com/id/1087546786/vector/futuristic-raise-arrow-chart-digital-transformation-abstract-technology-background-big-data.jpg?s=612x612&w=0&k=20&c=3jlP-yssBM9eSv9jZytiU2TTT4CuTuJgBBg_EyKEaxo=";
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav {
+    background-color: #333;
+    color: #fff;
+}
+.navbar-nav li a:hover {
+    text-decoration: underline;
+}
